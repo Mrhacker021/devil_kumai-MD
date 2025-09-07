@@ -1,7 +1,7 @@
 {
   "name": "𝕯𝖊𝖛𝖎𝖑-𝕶𝖚𝖒𝖆𝖎𝖑-𝐵𝑜𝓉",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By 𝕶𝖚𝖒𝖆𝖎𝖑_𝑀𝒟 Official",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name 𝕯𝖊𝖛𝖎𝖑-𝕶𝖚𝖒𝖆𝖎𝖑-𝐵𝑜𝓉",
